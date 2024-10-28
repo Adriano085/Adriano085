@@ -18,8 +18,8 @@ Here are some of the projects I've worked on:
 
 ## 📫 Connect with Me
 
-- [LinkedIn]([adriano-rosa](https://www.linkedin.com/in/adriano-rosa-741979182/))
-- [Twitter]([@AdrianoR1985](https://x.com/AdrianoR1985))
-- [Email](adrianorosa085@gmail.com)
+- LinkedIn ([adriano-rosa](https://www.linkedin.com/in/adriano-rosa-741979182/))
+- Twitter ([@AdrianoR1985](https://x.com/AdrianoR1985))
+- Email (adrianorosa085@gmail.com)
 
 Feel free to reach out if you want to collaborate or just chat about tech!
