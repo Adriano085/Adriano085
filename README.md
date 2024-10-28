@@ -6,7 +6,7 @@ I’m a Systems Analysis and Development student with a strong foundation in pro
 
 - **Programming Languages**: Python, SQL, Javascript
 - **Web Development**: React
-- **Tools & Technologies**: Git, Flask, RESTful APIs
+- **Tools & Technologies**: Git, Flask, RESTful APIs, Power BI
 - **Databases**: MySQL, PostgreSQL
 
 ## 💼 Projects
